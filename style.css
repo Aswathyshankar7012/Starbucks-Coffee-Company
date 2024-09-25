@@ -90,12 +90,9 @@ section a{
 /*footer&social*/
 .para-footer{
     padding:50px;
-    align-items:center;
     text-align: center;
     cursor: pointer;
-    padding-left:455px;
-    padding-right: 455px;
-    font-size: 14px;
+   
 }
 .footer{
     padding: 24px 0;
