@@ -137,7 +137,7 @@ section a{
     margin-bottom: 30px;
 
 }
-footer h5{
+.footer h5{
     font-weight: 400;
     margin-bottom: 30px;   
 }
@@ -327,8 +327,8 @@ order: 2;
     transition: all 0.25s;
     display: none;
 }
-.hamburger-top
-.hamburger-middle
+.hamburger-top,
+.hamburger-middle,
 .hamburger-bottom{
     position: absolute;
     top: 0;
