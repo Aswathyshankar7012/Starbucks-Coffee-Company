@@ -92,8 +92,9 @@ section a{
     padding:50px;
     text-align:center;
     cursor: pointer;
-    padding-left:50px;
-    padding-right:50px;
+    padding-left:455px;
+    padding-right: 455px;
+    font-size: 14px;
 }
 .footer{
     padding: 24px 0;
